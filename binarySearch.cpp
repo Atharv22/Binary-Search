@@ -33,3 +33,15 @@ int main(){
     return 0;
 
 }
+
+/* 
+
+SAMPLE OUTPUT
+Enter the number of elements:5
+Enter your Array in sorted order
+20 39 46 59 68
+Enter the number to be searched:
+46
+3
+
+*/
